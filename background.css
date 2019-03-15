@@ -1,0 +1,13 @@
+body{
+	background: linear-gradient(to right, red, yellow);
+}
+
+h1,h2,h3{
+	text-align: center;
+	color: white;
+}
+
+div{
+	text-align: center;
+}
+
